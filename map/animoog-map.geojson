@@ -144,6 +144,24 @@
           56.299586625622894
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Musician",
+        "Name": "Julien Bielka",
+        "URL": "http://www.lo-shi.org/",
+        "Description": "Theremini & Animoog player",
+        "marker-symbol": "music",
+        "marker-color": "#32cd32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.76761043071747,
+          35.69062017442496
+        ]
+      }
     }
   ]
 }
